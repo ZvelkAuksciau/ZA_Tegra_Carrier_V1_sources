@@ -1,0 +1,6 @@
+[submodule "u-boot"]
+	path = u-boot
+	url = https://github.com/ZvelkAuksciau/Tegra-u_boot.git
+[submodule "kernel/kernel-4.4"]
+	path = kernel/kernel-4.4
+	url = https://github.com/ZvelkAuksciau/Tegra_kernel-4.4.git
